@@ -4,7 +4,7 @@
 
 I use Python, statistics, and real-world observations to build reproducible analyses around climate, hydrology, renewable energy, and environmental decision-making.
 
-[Portfolio](https://kazi-adit-hossain.rakinmahmud15.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/kazi-adit-hossain/) · [Resume](https://kazi-adit-hossain.rakinmahmud15.chatgpt.site/resume)
+[Portfolio](https://kaziadithossain.com) · [LinkedIn](https://www.linkedin.com/in/kazi-adit-hossain/) · [Resume](https://kaziadithossain.com/resume)
 
 ## Featured project: ClimateFlow BC
 
@@ -15,7 +15,7 @@ A reproducible analysis connecting 2020 climate observations with daily streamfl
 - Linear regression and random forest comparison
 - Public Streamlit dashboard with documented limitations
 
-[View the repository](https://github.com/adit-hossain/ClimateFlow-BC) · [Open the dashboard](https://j7wndxxdfa8vc8dvc3ufgj.streamlit.app/) · [Read the case study](https://kazi-adit-hossain.rakinmahmud15.chatgpt.site/projects/climateflow-bc)
+[View the repository](https://github.com/adit-hossain/ClimateFlow-BC) · [Open the dashboard](https://j7wndxxdfa8vc8dvc3ufgj.streamlit.app/) · [Read the case study](https://kaziadithossain.com/projects/climateflow-bc)
 
 ## Current focus
 
